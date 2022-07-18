@@ -1,0 +1,6 @@
+Assign hexadecimal value to variable.
+Do swapping of LSB and MSB bit.
+First set lsb bit by anding operation and store in one variable. 
+Then similarly set msb bit and store in another variable.
+And do right shift and left shift operation for swapping. 
+Then add both shifting result and store in one variable we get swapped value.
